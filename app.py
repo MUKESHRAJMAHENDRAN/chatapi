@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-st.title("Chatbot")
+st.title("Skill intelligence")
 
 # Initialize session state for messages and chatbot model
 if "messages" not in st.session_state:
